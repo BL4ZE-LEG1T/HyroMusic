@@ -31,7 +31,7 @@
 
 ## 📥 Download
 
-Grab the latest `.apk` from the [**Releases page**](https://github.com/BL4ZE-LEG1T/Hyro/releases/latest) and install it on your Android phone.
+Grab the latest `.apk` from the [**Releases page**](https://github.com/BL4ZE-LEG1T/HyroMusic/releases/latest) and install it on your Android phone.
 
 For features, guides and more info, visit the **[website](https://your-website-here.com)**.
 
