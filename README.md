@@ -6,12 +6,12 @@
 
 **A beautiful, fast and ad-free music player for Android.**
 
-[![Latest Release](https://img.shields.io/github/v/release/BL4ZE-LEG1T/Hyro?style=for-the-badge&color=7C4DFF&label=Latest)](https://github.com/BL4ZE-LEG1T/Hyro/releases/latest)
+[![Latest Release](https://img.shields.io/github/v/release/BL4ZE-LEG1T/Hyro?style=for-the-badge&color=7C4DFF&label=Latest)](https://github.com/BL4ZE-LEG1T/HyroMusic/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/BL4ZE-LEG1T/Hyro/total?style=for-the-badge&color=00C853&label=Downloads)](https://github.com/BL4ZE-LEG1T/HyroMusic/releases)
 [![License](https://img.shields.io/badge/License-GPL--3.0-blue?style=for-the-badge)](LICENSE)
 ![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-[**⬇️ Download APK**](https://github.com/BL4ZE-LEG1T/Hyro/releases/latest) &nbsp;•&nbsp;
+[**⬇️ Download APK**](https://github.com/BL4ZE-LEG1T/HyroMusic/releases/latest) &nbsp;•&nbsp;
 [**🌐 Website**](https://your-website-here.com) &nbsp;•&nbsp;
 [Report a Bug](https://github.com/BL4ZE-LEG1T/Hyro/issues)
 
