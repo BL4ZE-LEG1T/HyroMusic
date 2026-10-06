@@ -37,8 +37,6 @@ Hyro Music is built around one idea: your music should look as good as it sounds
 
 </div>
 
-> Add your screenshots to the `Screenshots/` folder using the names above.
-
 ## 🎯 Features
 
 - 🎨 **Premium Material You design** built entirely with Jetpack Compose
@@ -59,26 +57,6 @@ Hyro Music is built around one idea: your music should look as good as it sounds
 
 **Requirements:** Android 8.0 (API 26) or higher. *(Update this if your minimum version is different.)*
 
-## 🛠️ Build From Source
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/BL4ZE-LEG1T/Hyro.git
-cd Hyro
-
-# 2. Copy the template config files and fill in your own values
-cp gradle.properties.template gradle.properties
-cp local.properties.template local.properties
-
-# 3. Build a release APK
-./gradlew :app:assembleArm64FossRelease
-```
-
-On Windows, use `.\gradlew.bat` instead of `./gradlew`.
-The APK will be in `app/build/outputs/apk/arm64Foss/release/`.
-
-See [SETUP.md](SETUP.md) for detailed setup instructions.
-
 ## 🧰 Tech Stack
 
 | Area | Technology |
@@ -88,10 +66,6 @@ See [SETUP.md](SETUP.md) for detailed setup instructions.
 | Database | Room |
 | Build | Gradle (Kotlin DSL) |
 | Platform | Android |
-
-## 🤝 Contributing
-
-Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) and our [Code of Conduct](CODE_OF_CONDUCT.md) first, then open an issue or pull request.
 
 ## 🔒 Privacy & Security
 
